@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE" width="100%" />
+<img src="./assets/banner.webp" width="100%" />
 
 <br/>
 <br/>

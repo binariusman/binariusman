@@ -1,16 +1,43 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**binariusman/binariusman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="YOUR_BANNER_IMAGE" width="100%" />
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ⚡ BINARIUSMAN
+
+### AI • FRONTEND • EDUCATION SYSTEMS
+
+<p>
+Building modern educational experiences powered by AI.
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+name: Rafael
+alias: Binariusman
+location: Puebla, México
+focus:
+  - AI Workflows
+  - Frontend Architecture
+  - Educational Platforms
+  - Modern UI Systems
+  - Astro Ecosystem
+
+currently_building:
+  - ENSA Web Platform
+  - AI-enhanced learning systems
+  - Modern responsive interfaces
+  - Automation workflows
+
+philosophy:
+  - Learn deeply
+  - Build relentlessly
+  - Design for humans
+  - Use AI as leverage

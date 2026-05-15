@@ -23,33 +23,33 @@ Building modern educational experiences powered by AI.
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre Mí
 
 ```yaml
-name: Rafael
+nombre: Rafael
 alias: Binariusman
-role: AI Builder & Frontend Architect
-location: Puebla, México
+rol: Constructor de Sistemas AI & Arquitecto Frontend
+ubicacion: Puebla, México
 
-mission:
-  Build educational systems powered by AI.
+mision:
+  Crear sistemas educativos potenciados por inteligencia artificial.
 
-focus:
-  - Astro Ecosystem
-  - AI Workflows
-  - Modern UI Systems
-  - Automation
-  - Educational Technology
+enfoque:
+  - Ecosistema Astro
+  - Workflows con IA
+  - Sistemas UI Modernos
+  - Automatización
+  - Tecnología Educativa
 
-currently_building:
-  - ENSA Web Platform
-  - AI-enhanced learning systems
-  - Responsive educational interfaces
-  - Automation workflows
+construyendo_actualmente:
+  - Plataforma ENSA Web
+  - Sistemas educativos mejorados con IA
+  - Interfaces responsivas modernas
+  - Workflows de automatización
 
-philosophy:
-  - Learn deeply
-  - Build relentlessly
-  - Design for humans
-  - Use AI as leverage
+filosofia:
+  - Aprender profundamente
+  - Construir constantemente
+  - Diseñar para humanos
+  - Utilizar IA como multiplicador
   

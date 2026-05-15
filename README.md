@@ -2,8 +2,8 @@
 
 <img src="./assets/banner.webp" width="100%" alt="Binariusman Banner" />
 
-<br/>
-<br/>
+<br>
+<br>
 
 # ⚡ BINARIUSMAN
 
@@ -13,27 +13,38 @@
 Building modern educational experiences powered by AI.
 </p>
 
+<br>
+
+<img src="https://img.shields.io/badge/AI-FIRST-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-Architecture-111827?style=for-the-badge&color=2563eb" />
+<img src="https://img.shields.io/badge/Education-Tech-0ea5e9?style=for-the-badge" />
+
 </div>
 
 ---
 
-# 🚀 About Me
+## 🧠 About Me
 
 ```yaml
 name: Rafael
 alias: Binariusman
+role: AI Builder & Frontend Architect
 location: Puebla, México
+
+mission:
+  Build educational systems powered by AI.
+
 focus:
-  - AI Workflows
-  - Frontend Architecture
-  - Educational Platforms
-  - Modern UI Systems
   - Astro Ecosystem
+  - AI Workflows
+  - Modern UI Systems
+  - Automation
+  - Educational Technology
 
 currently_building:
   - ENSA Web Platform
   - AI-enhanced learning systems
-  - Modern responsive interfaces
+  - Responsive educational interfaces
   - Automation workflows
 
 philosophy:

@@ -53,4 +53,8 @@ filosofia:
   - Construir constantemente
   - Diseñar para humanos
   - Utilizar IA como multiplicador
+  
+```
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=header" width="100%" />
+

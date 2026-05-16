@@ -23,6 +23,7 @@ Building modern educational experiences powered by AI.
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=header" width="100%" />
+
 ## 🧠 Sobre Mí
 
 ```yaml
@@ -30,7 +31,7 @@ nombre: Rafael
 alias: Binariusman
 rol: Constructor de Sistemas AI & Arquitecto Frontend
 ubicacion: Puebla, México
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=header" width="100%" />
+
 mision:
   Crear sistemas educativos potenciados por inteligencia artificial.
 
@@ -40,16 +41,16 @@ enfoque:
   - Sistemas UI Modernos
   - Automatización
   - Tecnología Educativa
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=header" width="100%" />
+
 construyendo_actualmente:
   - Plataforma ENSA Web
   - Sistemas educativos mejorados con IA
   - Interfaces responsivas modernas
   - Workflows de automatización
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=header" width="100%" />
+
 filosofia:
   - Aprender profundamente
   - Construir constantemente
   - Diseñar para humanos
   - Utilizar IA como multiplicador
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=header" width="100%" />
